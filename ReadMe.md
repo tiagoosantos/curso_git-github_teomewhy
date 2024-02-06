@@ -2,12 +2,12 @@
 
 nosso curso de git e github supimpa
 
-# dia 1 - GIT
+## dia 1 - GIT
 
 iniciar o git em uma pasta
 clicar com botão direito e mostrar todas as opções, clicar em GIT BASH HERE
 
-## comandos
+### comandos
 
 git init .                      =  cria um novo repositorio git
 git add <nome_arquivo>          =  manda arquivo para stage
